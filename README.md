@@ -1,2 +1,2 @@
 # TheTwinLegacy
-Theb Twin Legacy version control
+The Twin Legacy version control
